@@ -7,8 +7,8 @@ RAINBOW_COLORS = [
 def change_rainbow_colors
   # Write a solution that corrects the three colors in rainbow_colors, then returns the corrected array
   
-  puts room[0] = red
-  puts room
+  puts RAINBOW_COLORS[0] = red
+  puts RAINBOW_COLORS
 end
 change_rainbow_colors
 def add_colors
